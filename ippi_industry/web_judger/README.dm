@@ -1,6 +1,8 @@
 to execute this shit type
 
->> python3 res.py
+PYTHON VERSION UP OR EQUAL TO 3
+
+>> python3 judger.py
 
 also make sure to have data.txt within the same directory the 
 script is exectuted in
